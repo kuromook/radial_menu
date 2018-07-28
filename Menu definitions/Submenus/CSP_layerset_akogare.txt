@@ -1,0 +1,44 @@
+[Item1]
+Text= 		Hikaru
+Icon = 		CSP_AnimeBlur.png
+Action=		fun csp_layerset| hikaru
+
+[Item2]
+Text= 		Tsuyoshi
+Icon = 		CSP_AnimeBlur.png
+Action=		fun csp_layerset| tuyoshi
+
+[Item3]
+Text= 		Saori
+Icon = 		CSP_AnimeBlur.png
+Action=		fun csp_layerset| saori
+
+[Item4]
+Text= 		Kei
+Icon = 		CSP_AnimeBlur.png
+Action=		fun csp_layerset| kei
+
+[Item5]
+Text= 		Mori
+Icon = 		CSP_AnimeBlur.png
+Action=		fun csp_layerset| Mori
+
+[Item6]
+Text= 		Yamauchi
+Icon = 		CSP_AnimeBlur.png
+Action=		fun csp_layerset| yamauchi
+
+[Item7]
+Text= 		Kumicho
+Icon = 		CSP_AnimeBlur.png
+Action=		fun csp_layerset| kumicho
+
+[Item8]
+Text= 		Rin
+Icon = 		CSP_AnimeBlur.png
+Action=		fun csp_layerset| rin
+
+[Item9]
+Text= 		Hanayo
+Icon = 		CSP_AnimeBlur.png
+Action=		fun csp_layerset| hanayo

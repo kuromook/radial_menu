@@ -1,0 +1,176 @@
+﻿[Item1]
+Text=	CURVE
+Icon=	
+Action=	fun SendSc|"{F5}"
+
+[Item4]
+Text=	UNDO
+Icon=	
+Action=	fun SendSc|"^{z}"
+
+[Item7]
+Text=	CONFIRM
+Icon=	
+Action=	fun SendScConfirm
+
+[Item12]
+Text=	N
+Icon=	
+Action=	fun layer_folder|"N"
+
+[Item15]
+Text=	sketch
+Icon=	
+Action=	
+Tooltip=	sketch
+Submenu=	CSP_sketch
+
+[Item16]
+Text=	線幅
+Icon=	
+Action=	fun SendSc|"+{F8}"
+
+[Item17]
+Text=	ベタ塗り白
+Icon=	
+Action=	fun SendSc|"+{F6}"
+
+[Item18]
+Text=	マスクストック
+Icon=	
+Action=	fun SendSc|"+{F18}"
+
+[Item21]
+Text=	描き文字ブラシ
+Icon=	
+Action=	fun csp_brush_purple
+
+[Item26]
+Text=	M フォルダ
+Icon=	
+Action=	fun csp_layerset|"M"
+
+[Item28]
+Text=	Divide
+Icon=	
+Action=	fun SendSc|"^!+{d}"
+
+[Item29]
+Text=	Speak
+Icon=	
+Action=	fun csp_set_speaking
+
+[Item31]
+Text=	cmd
+Icon=	
+Action=	fun copyImages
+
+[Item32]
+Text=	Live
+Icon=	
+Action=	
+Tooltip=	Live
+Submenu=	Live
+
+[Item34]
+Text=	ITEM
+Icon=	
+Action=	fun csp_bg_import
+
+[Item35]
+Text=	色域選択
+Icon=	
+Action=	fun SendSc|"^!{2}"
+
+[Item37]
+Text=	コマ
+Icon=	
+Action=	fun csp_coma
+
+[Item38]
+Text=	モノログ
+Icon=	
+Action=	fun SendSc|"{F9}"
+
+[Item40]
+Text=	duplicate tone
+Icon=	
+Action=	fun SendSc|"+{F19}"
+
+[Item43]
+Text=	Sketch
+Icon=	
+Action=	fun SendSc|"^+{F2}"
+
+[Item45]
+Text=	hair layerset
+Icon=	
+Action=	fun SendSc|"+!^{h}"
+
+[Item46]
+Text=	F フォルダ
+Icon=	
+Action=	fun csp_layerset|"F"
+
+[Item49]
+Text=	Merge
+Icon=	
+Action=	fun SendSc|"!+^{c}"
+
+[Item50]
+Text=	Speak Half
+Icon=	
+Action=	fun csp_set_speaking2
+
+[Item51]
+Text=	Img2Pdf
+Icon=	
+Action=	C:\Users\kuro\code\py\cspPdf\imagesToPdf.exe
+
+[Item52]
+Text=	Subview
+Icon=	
+Action=	C:\Users\kuro\code\py\subview\subview.exe
+
+[Item54]
+Text=	Materialize
+Icon=	
+Action=	fun SendSc|"^!+{F18}"
+
+[Item55]
+Text=	Apps
+Icon=	
+Action=	
+Tooltip=	Applications
+Submenu=	Applications
+
+[Item56]
+Text=	管理
+Icon=	
+Action=	fun SendSc|"^+!{F10}"
+
+[Item57]
+Text=	BG div
+Icon=	
+Action=	
+Submenu=	CSP_bgDiv
+
+[Item59]
+Text=	filter
+Icon=	
+Action=	
+Tooltip=	CSP_filter
+Submenu=	CSP_filter
+
+[Item60]
+Text=	pickup
+Icon=	
+Action=	fun layer_folder| Pickup
+
+;====================================================
+[General]
+CentralText=	Comic
+
+;====================================================
+[Navigator]
+Name=	Example navigator

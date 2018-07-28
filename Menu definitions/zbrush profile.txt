@@ -1,0 +1,75 @@
+﻿[Item1]
+Text=	Dynamesh
+Icon=
+Action=	fun SendSc|"{F11}"
+
+[Item2]
+Text=	store hotkey
+Icon=
+Action=	fun SendSc|"^+{F1}"
+
+[Item4]
+Text=	group masked
+Icon=
+Action=	fun SendSc|"{F9}"
+
+[Item5]
+Text=	group split
+Icon=
+Action=	fun SendSc|"{F6}"
+
+[Item7]
+Text=	zRemesher
+Icon=
+Action=	fun SendSc|"{F12}"
+
+[Item8]
+Text=	draw Poly Flame
+Icon=
+Action=	fun SendSc|"+{f}"
+
+[Item19]
+Text=	subdivide +
+Icon=
+Action=	fun SendSc|"^{d}"
+
+[Item35]
+Text=	Fix hole
+Icon=
+Action=	fun SendSc|"{F19}"
+
+[Item37]
+Text=	subdivide -
+Icon=
+Action=	fun SendSc|"+{d}"
+
+[Item42]
+Text=	make Polymesh 3D
+Icon=
+Action=	fun SendSc|"^{F1}"
+
+[Item55]
+Text=	Folders
+Icon=	Windows explorer.png
+Action=	%A_WinDir%\explorer.exe
+Submenu=	Folders
+
+[Item56]
+Text=	Apps
+Icon=
+Action=
+Tooltip=	Applications
+Submenu=	Applications
+
+[Item58]
+Text=	del hidden
+Icon=
+Action=	fun SendSc|"+{F1}"
+
+;====================================================
+[General]
+CentralText=	Paint
+
+;====================================================
+[Navigator]
+Name=	Example navigator

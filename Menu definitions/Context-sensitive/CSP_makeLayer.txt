@@ -1,0 +1,44 @@
+﻿[Item1]
+Text=	Normal
+Icon=	CSP_AnimeBlur.png
+Action=	fun makeLayer|"^!{F1}"
+
+[Item2]
+Text=	Deep
+Icon=	CSP_AnimeBlur.png
+Action=	fun makeLayer|"^!{F6}"
+
+[Item3]
+Text=	Overlay
+Icon=	CSP_AnimeBlur.png
+Action=	fun makeLayer|"^!{F3}"
+
+[Item4]
+Text=	Shadow
+Icon=	CSP_AnimeBlur.png
+Action=	fun makeLayer|"^!{F2}"
+
+[Item5]
+Text=	Light
+Icon=	CSP_AnimeBlur.png
+Action=	fun makeLayer|"^!{F5}"
+
+[Item6]
+Text=	High Light
+Icon=	CSP_AnimeBlur.png
+Action=	fun makeLayer|"^!{F4}"
+
+[Item7]
+Text=	Normal noClip
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSc|"^!{F1}"
+
+[Item16]
+Text=	Screen
+Icon=	CSP_AnimeBlur.png
+Action=	fun makeLayer|"^!{F7}"
+
+[Item55]
+Text=	Apply Mask
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSc|"{F17}"

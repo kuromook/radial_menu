@@ -1,0 +1,42 @@
+;[Item1]
+;Text= 		print Folder
+;Icon=		Notepad.png
+;Action= 	C:\tool\print\print.jsxbin
+[Item1]
+Text= 		shogi
+Icon=		Calculator.png
+Action= C:\tool\Shogidokoro\Shogidokoro.exe
+[Item2]
+Text= 		Blender
+Icon=		Calculator.png
+Action= 	C:\tool\gnupack_basic-11.00\home\Autohotkey\csp\blender2core.bat
+
+[Item3]
+Text= 		CSP
+Icon= 		Word.png
+Action= 	C:\tool\gnupack_basic-11.00\home\Autohotkey\csp\csp2core.bat
+
+[Item4]
+Text= 		Zbrush
+Icon= 		Windows Media Player.png
+Action= 	C:\Program Files\Pixologic\ZBrush 4R8\ZBrush.exe
+
+[Item5]
+Text= 		firefox
+Icon= 		Word.png
+Action= 	C:\tool\gnupack_basic-11.00\home\Autohotkey\csp\firefox2core.bat
+
+[Item6]
+Text= 		chrome
+Icon= 		Word.png
+Action= 	C:\tool\gnupack_basic-11.00\home\Autohotkey\csp\chrome2core.bat
+
+[Item7]
+Text= 		cj
+Icon= 		Word.png
+Action=		fun run_clipjump
+
+[Item8]
+Text= 		cj-mono
+Icon= 		Word.png
+Action=		fun run_clipjumpmono

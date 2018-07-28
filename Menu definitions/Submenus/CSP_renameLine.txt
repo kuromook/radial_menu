@@ -1,0 +1,43 @@
+[Item1]
+Text= 		Face
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F1}"
+
+[Item2]
+Text= 		Hair
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F2}"
+
+[Item3]
+Text= 		Effect
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F3}"
+
+[Item4]
+Text= 		Head Skin
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F4}"
+
+[Item5]
+Text= 		Body Skin
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F5}"
+
+[Item6]
+Text= 		Body Cloth
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F6}"
+
+[Item7]
+Text= 		Accecery
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F7}"
+
+[Item8]
+Text= 		Erotic
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F8}"
+[Item9]
+Text= 		Fril
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F9}"

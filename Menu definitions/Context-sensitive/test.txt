@@ -1,0 +1,169 @@
+﻿[Item1]
+Text=	白フチ
+Icon=	
+Action=	fun SendSc|"+^!{F16}"
+
+[Item9]
+Text=	duplicate tone
+Icon=	
+Action=	fun SendSc|"+{F19}"
+
+[Item10]
+Text=	資料
+Icon=	
+Action=	fun layer_folder|"資料"
+
+[Item11]
+Text=	HEAD
+Icon=	
+Action=	fun layer_folder|"HEAD"
+
+[Item12]
+Text=	N
+Icon=	
+Action=	fun layer_folder|"N"
+
+[Item14]
+Text=	OBJ
+Icon=	
+Action=	fun SendSc|"{NumpadMult}"
+
+[Item16]
+Text=	線幅
+Icon=	
+Action=	fun SendSc|"+{F8}"
+
+[Item21]
+Text=	shadow to skin gradation
+Icon=	
+Action=	fun shadow2gradationSkin
+
+[Item22]
+Text=	グラデフォルダ
+Icon=	
+Action=	fun SendSc|"^!{F12}"
+
+[Item23]
+Text=	set Sketch
+Icon=	
+Action=	fun SendSc|"^{F19}"
+
+[Item24]
+Text=	トレンド
+Icon=	
+Action=	fun layer_folder|"トレンド"
+
+[Item25]
+Text=	BODY
+Icon=	
+Action=	fun layer_folder|"BODY"
+
+[Item26]
+Text=	F フォルダ
+Icon=	
+Action=	fun csp_layerset|"F"
+
+[Item28]
+Text=	Divide
+Icon=	
+Action=	fun SendSc|"^!+{d}"
+
+[Item29]
+Text=	Merge Sketch
+Icon=	
+Action=	fun SendSc|"^!+{7}"
+
+[Item32]
+Text=	Monochrome
+Icon=	
+Action=	fun SendSc|"+{F11}"
+
+[Item33]
+Text=	Speak
+Icon=	
+Action=	fun csp_set_speaking
+
+[Item35]
+Text=	ベタ塗り白
+Icon=	
+Action=	fun SendSc|"+{F6}"
+
+[Item37]
+Text=	コマ
+Icon=	
+Action=	fun csp_coma
+
+[Item38]
+Text=	pickup
+Icon=	
+Action=	fun csp_layerset| Pickup
+
+[Item39]
+Text=	duplicate tone
+Icon=	
+Action=	fun csp_duplicate_tone
+
+[Item40]
+Text=	Shadow to Gradation
+Icon=	
+Action=	fun shadow2gradation
+
+[Item41]
+Text=	陰部グラデフォルダ
+Icon=	
+Action=	fun SendSc|"+^{F12}"
+
+[Item43]
+Text=	SKETCH
+Icon=	
+Action=	fun layer_folder|"Sketch"
+
+[Item44]
+Text=	MISC
+Icon=	
+Action=	fun layer_folder|"MISC"
+
+[Item45]
+Text=	TIPS
+Icon=	
+Action=	fun layer_folder|"TIPS"
+
+[Item46]
+Text=	M フォルダ
+Icon=	
+Action=	fun csp_layerset|"M"
+
+[Item49]
+Text=	Merge
+Icon=	
+Action=	fun SendSc|"!+^{c}"
+
+[Item50]
+Text=	Cut Sketch
+Icon=	
+Action=	fun SendSc|"^!+{x}"
+
+[Item53]
+Text=	Mosaic
+Icon=	
+Action=	fun csp_mosaic
+
+[Item54]
+Text=	Materialize
+Icon=	
+Action=	fun SendSc|"^!+{F18}"
+
+[Item56]
+Text=	Convert Speak
+Icon=	
+Action=	fun csp_speaking_convert
+
+[Item59]
+Text=	マスクストック
+Icon=	
+Action=	fun SendSc|"+{F18}"
+
+[Item60]
+Text=	モノログ
+Icon=	
+Action=	fun SendSc|"{F9}"

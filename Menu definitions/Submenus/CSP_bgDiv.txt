@@ -1,0 +1,19 @@
+﻿[Item1]
+Text= 		bg Back
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendScWithW|"!+{q}"
+
+[Item2]
+Text= 		bg Middle
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendScWithW|"!+{w}"
+
+[Item3]
+Text= 		bg Front
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendScWithW|"!+{e}"
+
+[Item6]
+Text=	rename rendering
+Icon=	Csp_ClothBlur.png
+Action=	C:\Users\kuro\code\py\lineart\renameRendering.exe

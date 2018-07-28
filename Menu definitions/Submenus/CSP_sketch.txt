@@ -1,0 +1,25 @@
+[Item9]
+Text=	onomatopoiea layer
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSc|"^!+{o}"
+
+[Item23]
+Text=	set Sketch
+Icon=
+Action=	fun SendSc|"^{F19}"
+
+[Item14]
+Text=	Cut Sketch
+Icon=
+Action=	fun SendSc|"^!+{x}"
+
+
+[Item15]
+Text=	Arts
+Icon=
+Action=	fun SendSc|"+^!{q}"
+
+[Item1]
+Text=	Sketch layer
+Icon=
+Action=	fun SendSc|"+^!{n}"

@@ -1,0 +1,39 @@
+﻿[Item7]
+Text=	Face
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendScAfterNewLayer|"^+!{F1}"
+
+[Item8]
+Text=	Hair
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendScAfterNewLayer|"^+!{F2}"
+
+[Item15]
+Text=	Mob
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendScAfterNewLayer|"^+!{F9}"
+
+[Item14]
+Text=	Accecery
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendScAfterNewLayer|"^+!{F7}"
+
+[Item17]
+Text=	Body Cloth
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendScAfterNewLayer|"^+!{F6}"
+
+[Item18]
+Text=	Body Skin
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendScAfterNewLayer|"^+!{F5}"
+
+[Item10]
+Text=	Erotic
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendScAfterNewLayer|"^+!{F8}"
+
+[Item11]
+Text=	Effect
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendScAfterNewLayer|"^+!{F3}"

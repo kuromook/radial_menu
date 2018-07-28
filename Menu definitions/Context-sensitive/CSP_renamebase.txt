@@ -1,0 +1,59 @@
+﻿[Item1]
+Text=	Hair
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F1}"
+
+[Item2]
+Text=	Eye
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F2}"
+
+[Item3]
+Text=	Teeth
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F4}"
+
+[Item4]
+Text=	Mouse
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F3}"
+
+[Item5]
+Text=	Skin
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F6}"
+
+[Item6]
+Text=	Cloth
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F5}"
+
+[Item7]
+Text=	Line
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F10}"
+
+[Item11]
+Text=	Underware
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F8}"
+
+[Item12]
+Text=	Zubon
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F7}"
+
+[Item15]
+Text=	Fruid
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F12}"
+
+[Item17]
+Text=	Item
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F11}"
+
+[Item18]
+Text=	Accecery
+Icon=	CSP_AnimeBlur.png
+Action=	fun SendSC|"^!+{F9}"

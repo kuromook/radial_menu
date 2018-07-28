@@ -1,0 +1,138 @@
+[Item1]
+Text= 		detail
+Icon = 		CSP_Anime.png
+Action=		fun SendSc|"{1}"
+
+[Item2]
+Text= 		Oil
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"{2}"
+
+[Item3]
+Text= 		Mix
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendSc|"{b}"
+
+[Item4]
+Text= 		Cloth
+Icon = 		CSP_ClothBase.png
+Action=		fun SendSc|"{4}"
+
+[Item5]
+Text= 		Cloth S 
+Icon = 		CSP_ClothBlur.png
+Action=		fun SendSc|"{3}"
+
+[Item6]
+Text= 		Crease
+Icon = 		CSP_ClothCrease.png
+Action=		fun SendSc|"{5}"
+
+[Item7]
+Text= 		Brush
+Icon = 		CSP_Brush.png
+Action=		fun SendSc|"{9}"
+
+[Item8]
+Text= 		Plain
+Icon = 		CSP_PlainLarge.png
+Action=		fun SendSc|"{7}"
+
+[Item9]
+Text= 		Plain S
+Icon = 		CSP_PlainSmall.png
+Action=		fun SendSc|"{8}"
+
+[Item10]
+Text= 		Maru
+Icon = 		CSP_PenMaru.png
+Action=		fun SendSc|"{j}"
+
+[Item11]
+Text= 		G
+Icon = 		CSP_PenG.png
+Action=		fun SendSc|"{l}"
+
+[Item12]
+Text= 		Free
+Icon = 		CSP_PenG.png
+Action=		fun SendSc|"{p}"
+
+[Item13]
+Text= 		Kabura
+Icon = 		CSP_PenG.png
+Action=		fun SendSc|"{f}"
+
+[Item18]
+Icon=		Windows explorer.png
+Action= 	%A_WinDir%\explorer.exe
+Submenu=	Folders
+
+[Item19]
+Text= 		Lasso Sel
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"{F7}"
+[Item20]
+Text= 		Curve Sel
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"{F5}"
+
+[Item21]
+Text= 		Select
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"{F9}"
+
+[Item22]
+Text= 	 	Transform
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendSc|"^+{t}"
+[Item23]
+Text= 		Mesh
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendSc|"^!{t}"
+
+
+[Item14]
+Text= 		White Edge
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendSc|"^+!{F16}"
+[Item15]
+Text= 		Black Edge
+Icon = 		CSP_AnimeBlur.png
+Action=		fun SendSc|"^+!{F17}"
+
+[Item16]
+Text= 		B & W
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendSc|"^+!{F19}"
+
+[Item28]
+Text= 		Rename
+Submenu=	CSP_renameLine
+Tooltip=	rename
+
+[Item31]
+Text=		Folders
+Icon=		Windows explorer.png
+Action= 		%A_WinDir%\explorer.exe
+Submenu=	Folders
+
+[Item32]
+Text= 		Apps
+Submenu=	Applications
+Tooltip=		Applications
+;==================================================================
+[General]
+SpecMenuBack=		
+SpecMenuFore=		
+OneRingerAtt=		
+CentralText=		Paint
+CentralImage=		
+CentralImageSizeFactor=	
+
+
+;==================================================================
+[Navigator]
+Name = Example navigator
+
+

@@ -1,0 +1,59 @@
+﻿[Item1]
+Text=	MAX
+Icon=	CSP_AnimeBlur.png
+Action=	fun csp_brushSoftExtMax
+
+[Item2]
+Text=	MILD
+Icon=	CSP_AnimeBlur.png
+Action=	fun csp_setBrushBlur|"^!{[ 2}""+{[ 6}"
+
+[Item3]
+Text=	SOFT
+Icon=	CSP_AnimeBlur.png
+Action=	fun csp_setBrushBlur|"^!{[ 6}""+{[ 2}"
+
+[Item4]
+Text=	MIN
+Icon=	CSP_AnimeBlur.png
+Action=	fun csp_setBrushBlur|"^!{[ 10}""+{[ 10}"
+
+[Item5]
+Text=	HARD
+Icon=	CSP_AnimeBlur.png
+Action=	fun csp_setBrushBlur|"^!{[ 10}""+{[ 0}"
+
+[Item6]
+Text=	BLEND
+Icon=	CSP_AnimeBlur.png
+Action=	fun csp_setBrushBlur|"^!{[ 0}""+{[ 10}"
+
+[Item7]
+Text=	Ink MAX
+Icon=	Csp_ClothBlur.png
+Action=	fun csp_brushInkMax
+
+[Item11]
+Text=	Ink STALEMATE
+Icon=	Csp_ClothBlur.png
+Action=	fun csp_setBrushInk|"^+!{[ 6}""+!{[ 2}"
+
+[Item12]
+Text=	Ink SURRENDER
+Icon=	Csp_ClothBlur.png
+Action=	fun csp_setBrushInk|"^+!{[ 10}""+!{[ 0}"
+
+[Item13]
+Text=	Ink MIN
+Icon=	Csp_ClothBlur.png
+Action=	fun csp_setBrushInk|"^+!{[ 10}""+!{[ 10}"
+
+[Item17]
+Text=	Ink INCLUSION
+Icon=	Csp_ClothBlur.png
+Action=	fun csp_setBrushInk|"^+!{[ 2}""+!{[ 6}"
+
+[Item18]
+Text=	Ink OCCUPAY
+Icon=	Csp_ClothBlur.png
+Action=	fun csp_setBrushInk|"^+!{[ 0}""+!{[ 10}"

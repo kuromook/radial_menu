@@ -1,0 +1,17 @@
+﻿[Item1]
+Text=	
+Icon=	Videos.png
+Action=	explore E:\Video
+[Item2]
+Text=	Roming
+Icon=	Pictures.png
+Action=	explore C:\Users\kuro\AppData\Roaming
+[Item6]
+Text=	Dropbox
+Icon=	Pictures.png
+Action=	explore C:\Users\kuro\Dropbox
+
+[Item7]
+Text=	Yayoi
+Icon=	Pictures.png
+Action=	explore C:\Users\kuro\Documents\Yayoidata

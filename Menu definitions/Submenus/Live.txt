@@ -1,0 +1,23 @@
+﻿[Item1]
+Text=	BOUYOMI
+Icon=	Word.png
+Action=	C:\tool\BouyomiChan_0_1_11_0_Beta16\BouyomiChan.exe
+[Item2]
+Text=	FC2come
+Icon=	Word.png
+Action=	C:\tool\FC2come0-5-5-0\FC2come.exe
+
+[Item3]
+Text=	Fc2Cast
+Icon=	Notepad.png
+Action=	"%A_ProgramFiles%\FC2LiveCast\FC2LiveCast.exe"
+
+;[Item5]
+;Text=	OBS
+;Icon=	Word.png
+;Action=	fun runOBS
+
+[Item15]
+Text=	abema comment
+Icon=	Word.png
+Action=	"C:\tool\FreshComeView_0_9_5\FreshCommentViewer.exe"

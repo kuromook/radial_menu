@@ -1,0 +1,19 @@
+﻿[Item1]
+Text= 		ガウスぼかし 200
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendSc|"+^{1}"
+
+[Item2]
+Text= 		ガウスぼかし 50
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendSc|"+^{2}"
+
+[Item3]
+Text= 		ガウスぼかし 25
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendSc|"+^{3}"
+
+[Item6]
+Text= 		下絵トーンカーブ
+Icon = 		CSP_AnimeBlur2.png
+Action=		fun SendSc|"+!^{r}"
