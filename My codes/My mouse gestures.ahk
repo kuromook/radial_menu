@@ -4,64 +4,23 @@
 
 
 MGA_LU() {    ; example
-send,{j}
-;send,{F3}
-
+send,{F3}
 send,{w}
-	;MsgBox, 64, RM - mouse gesture example, Hello! I'm mouse gesture %A_ThisFunc%.`nYou can edit me in RM\My codes\My mouse gestures.ahk
 }
+
 MGA_U(){
-	;send,{r}
-	send,{F10}
-	;send,{9}
-	;send,{w}
-}
-MGA_R(){
-;send, {h}
-	send,{9}
+	send,{F6} ;大鉛筆
 	send,{w}
 }
-/*
-MGA_UR() {    ; example
-	;send,{w}
-	;send,{9}
-	send,{g}
-	;MsgBox, 64, RM - mouse gesture example, Hello! I'm mouse gesture %A_ThisFunc%.`nYou can edit me in RM\My codes\My mouse gestures.ahk
-}
-MGA_UL() {    ; example
-	;send,{u}
-	;send,{x}
-	send,{h}
-	;MsgBox, 64, RM - mouse gesture example, Hello! I'm mouse gesture %A_ThisFunc%.`nYou can edit me in RM\My codes\My mouse gestures.ahk
-}
-MGA_UD() {    ; example
-	;send,{u}
-	;send,{x}
-	send,{r}
-	;MsgBox, 64, RM - mouse gesture example, Hello! I'm mouse gesture %A_ThisFunc%.`nYou can edit me in RM\My codes\My mouse gestures.ahk
+MGA_R(){
+	send,{9} ; 小鉛筆
+	send,{w}
 }
 
-MGA_LU() {    ; example
-;send,{F5}
-	send,{F19}
-	;MsgBox, 64, RM - mouse gesture example, Hello! I'm mouse gesture %A_ThisFunc%.`nYou can edit me in RM\My codes\My mouse gestures.ahk
-}
-*/
 MGA_LD() {
-	send,^{F16}
+	send,^{F16} ;左右反転
 
 }
-MGA_LR() {
-	send,!+^{f}
-
-}
-
-/*
-MG_RD() {   ; example. Closes active window.
-	ActiveWinID := RMApp_Reg("ActiveWinID")	; window that was active in a moment when you pressed RMShowHotkey
-	WinClose, ahk_id %ActiveWinID%
-}
-*/
 
 
 

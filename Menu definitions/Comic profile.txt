@@ -125,12 +125,12 @@ Action=	fun csp_set_speaking2
 [Item51]
 Text=	Img2Pdf
 Icon=	
-Action=	C:\Users\kuro\code\py\cspPdf\imagesToPdf.exe
+Action=	C:\Users\sh1\code\py\cspPdf\imagesToPdf.exe
 
 [Item52]
 Text=	Subview
 Icon=	
-Action=	C:\Users\kuro\code\py\subview\subview.exe
+Action=	C:\Users\sh1\code\py\subview\subview.exe
 
 [Item54]
 Text=	Materialize
