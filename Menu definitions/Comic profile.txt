@@ -90,7 +90,7 @@ Action=	fun csp_coma
 [Item38]
 Text=	モノログ
 Icon=	
-Action=	fun SendSc|"{F9}"
+Action=	fun SendSc|"{j}"
 
 [Item40]
 Text=	duplicate tone

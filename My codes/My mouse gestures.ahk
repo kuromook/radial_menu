@@ -4,16 +4,16 @@
 
 
 MGA_LU() {    ; example
-send,{F3}
+send,{z}
 send,{w}
 }
 
 MGA_U(){
-	send,{F6} ;大鉛筆
+	send,{f} ;大鉛筆
 	send,{w}
 }
 MGA_R(){
-	send,{9} ; 小鉛筆
+	send,{v} ; 小鉛筆
 	send,{w}
 }
 
