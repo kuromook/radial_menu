@@ -13,7 +13,12 @@ Text=	CONFIRM
 Icon=	
 Action=	fun SendScConfirm
 
-[Item12]
+[Item8]
+Text=	線幅
+Icon=	
+Action=	fun SendSc|"+{F8}"
+
+[Item14]
 Text=	N
 Icon=	
 Action=	fun layer_folder|"N"
@@ -24,11 +29,6 @@ Icon=
 Action=	
 Tooltip=	sketch
 Submenu=	CSP_sketch
-
-[Item16]
-Text=	線幅
-Icon=	
-Action=	fun SendSc|"+{F8}"
 
 [Item17]
 Text=	ベタ塗り白
@@ -45,32 +45,25 @@ Text=	描き文字ブラシ
 Icon=	
 Action=	fun csp_brush_purple
 
-[Item26]
-Text=	M フォルダ
+[Item24]
+Text=	Img2Pdf
 Icon=	
-Action=	fun csp_layerset|"M"
+Action=	C:\Users\sh1\code\py\cspPdf\imagesToPdf.exe
 
 [Item28]
 Text=	Divide
 Icon=	
 Action=	fun SendSc|"^!+{d}"
 
-[Item29]
+[Item30]
+Text=	M フォルダ
+Icon=	
+Action=	fun csp_layerset|"M"
+
+[Item31]
 Text=	Speak
 Icon=	
 Action=	fun csp_set_speaking
-
-[Item31]
-Text=	cmd
-Icon=	
-Action=	fun copyImages
-
-[Item32]
-Text=	Live
-Icon=	
-Action=	
-Tooltip=	Live
-Submenu=	Live
 
 [Item34]
 Text=	ITEM
@@ -98,44 +91,31 @@ Icon=
 Action=	fun SendSc|"+{F19}"
 
 [Item43]
-Text=	Sketch
+Text=	Live
 Icon=	
-Action=	fun SendSc|"^+{F2}"
+Action=	
+Tooltip=	Live
+Submenu=	Live
 
-[Item45]
-Text=	hair layerset
+[Item44]
+Text=	cmd
 Icon=	
-Action=	fun SendSc|"+!^{h}"
-
-[Item46]
-Text=	F フォルダ
-Icon=	
-Action=	fun csp_layerset|"F"
+Action=	fun copyImages
 
 [Item49]
 Text=	Merge
 Icon=	
 Action=	fun SendSc|"!+^{c}"
 
-[Item50]
+[Item52]
+Text=	F フォルダ
+Icon=	
+Action=	fun csp_layerset|"F"
+
+[Item53]
 Text=	Speak Half
 Icon=	
 Action=	fun csp_set_speaking2
-
-[Item51]
-Text=	Img2Pdf
-Icon=	
-Action=	C:\Users\sh1\code\py\cspPdf\imagesToPdf.exe
-
-[Item52]
-Text=	Subview
-Icon=	
-Action=	C:\Users\sh1\code\py\subview\subview.exe
-
-[Item54]
-Text=	Materialize
-Icon=	
-Action=	fun SendSc|"^!+{F18}"
 
 [Item55]
 Text=	Apps
@@ -166,6 +146,24 @@ Submenu=	CSP_filter
 Text=	pickup
 Icon=	
 Action=	fun layer_folder| Pickup
+
+[Item9]
+Text=	白フチ
+Icon=	Csp_PlainLarge.png
+Action=	fun SendSc|"^+!{F16}"
+
+
+[Item10]
+Text=	黒フチ
+Icon=	Csp_PlainLarge.png
+Action=	fun SendScWithXV|"^+!{F17}"
+
+
+[Item11]
+Text=	白黒フチ
+Icon=	Csp_PlainLarge.png
+Action=	fun SendScWithXV|"^+!{F19}"
+
 
 ;====================================================
 [General]
