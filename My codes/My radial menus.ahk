@@ -2,10 +2,6 @@
 ; This file is included in main Radial menu script. You can load or create additional radial menus here.
 
 
-RMApp_LoadMenu(51, RM "\Menu definitions\Context-sensitive\test.txt") 
-RMApp_LoadMenu(55, RM "\Menu definitions\Context-sensitive\CSP_makeLayer_line.txt") 
-RMApp_LoadMenu(54, RM "\Menu definitions\Context-sensitive\CSP_monoeffect.txt") 
-RMApp_LoadMenu(52, RM "\Menu definitions\Context-sensitive\CSP_layerfolder.txt") 
 RMApp_LoadMenu(59, RM "\Menu definitions\Context-sensitive\CSP_renamebase.txt") 
 RMApp_LoadMenu(58, RM "\Menu definitions\Context-sensitive\CSP_makeLayer.txt") 
 RMApp_LoadMenu(57, RM "\Menu definitions\Context-sensitive\CSP_paintBrush.txt") 
