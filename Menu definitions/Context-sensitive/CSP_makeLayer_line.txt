@@ -1,9 +1,0 @@
-﻿[Item1]
-Text=	Sketch
-Icon=	CSP_AnimeBlur.png
-Action=	fun SendSc|"!+{F2}"
-
-[Item2]
-Text=	onomatopoeia
-Icon=	CSP_AnimeBlur.png
-Action=	fun SendSc|"^!+{o}"
