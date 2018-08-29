@@ -31,7 +31,7 @@ RMApp_MyRMHandler2(MenuToShow)      ; Shows appropriate menu, gets selected item
 return
 
 #x::
-MButton::
+XButton1::
 IfWinActive, CLIP STUDIO PAINT ; if Paint is active window ...
 MenuToShow := 58                    ; ... we will show menu for Paint (Gui number 56)
 else IfWinActive, ahk_class 742DEA58-ED6B-4402-BC11-20DFC6D08040-6571DDC4-B3AA-45e4-9D35-57C0C1E90AD5                         ; in all other cases ...
