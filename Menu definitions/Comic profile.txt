@@ -3,6 +3,12 @@ Text=	CURVE
 Icon=	
 Action=	fun SendSc|"{F5}"
 
+[Item3]
+Text=	TEXT color
+Icon=	
+Action=	fun SendSc|"^+{F6}"
+
+
 [Item4]
 Text=	UNDO
 Icon=	
