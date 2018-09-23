@@ -1,33 +1,52 @@
 ﻿[Item1]
-Text=	CURVE
+Text=	線画
 Icon=	
-Action=	fun SendSc|"{F5}"
+Action=	fun SendSc|"^!{F16}"
+
+[Item2]
+Text=	B
+Icon=	
+Action=	fun layer_folder|"B"
 
 [Item3]
-Text=	TEXT color
+Text=	N
 Icon=	
-Action=	fun SendSc|"^+{F6}"
-
+Action=	fun layer_folder|"N"
 
 [Item4]
-Text=	UNDO
+Text=	Tab
 Icon=	
-Action=	fun SendSc|"^{z}"
+Action=	fun SendSc|"{Tab}"
 
-[Item7]
-Text=	CONFIRM
+[Item6]
+Text=	Effect
 Icon=	
-Action=	fun SendScConfirm
+Action=	fun SendSc|"^{F2}"
 
 [Item8]
 Text=	線幅
 Icon=	
 Action=	fun SendSc|"+{F8}"
 
-[Item14]
-Text=	N
+[Item9]
+Text=	白フチ
 Icon=	
-Action=	fun layer_folder|"N"
+Action=	fun SendSc|"^+!{F16}"
+
+[Item10]
+Text=	黒フチ
+Icon=	
+Action=	fun SendScWithXV|"^+!{F17}"
+
+[Item11]
+Text=	白黒フチ
+Icon=	
+Action=	fun SendScWithXV|"^+!{F19}"
+
+[Item14]
+Text=	pickup
+Icon=	
+Action=	fun SendSc|"^!{2}"
 
 [Item15]
 Text=	sketch
@@ -35,6 +54,11 @@ Icon=
 Action=	
 Tooltip=	sketch
 Submenu=	CSP_sketch
+
+[Item16]
+Text=	TEXT color
+Icon=	
+Action=	fun SendSc|"^+{F6}"
 
 [Item17]
 Text=	ベタ塗り白
@@ -147,29 +171,6 @@ Icon=
 Action=	
 Tooltip=	CSP_filter
 Submenu=	CSP_filter
-
-[Item60]
-Text=	pickup
-Icon=	
-Action=	fun layer_folder| Pickup
-
-[Item9]
-Text=	白フチ
-Icon=	Csp_PlainLarge.png
-Action=	fun SendSc|"^+!{F16}"
-
-
-[Item10]
-Text=	黒フチ
-Icon=	Csp_PlainLarge.png
-Action=	fun SendScWithXV|"^+!{F17}"
-
-
-[Item11]
-Text=	白黒フチ
-Icon=	Csp_PlainLarge.png
-Action=	fun SendScWithXV|"^+!{F19}"
-
 
 ;====================================================
 [General]
