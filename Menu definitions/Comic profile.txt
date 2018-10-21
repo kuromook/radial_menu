@@ -18,6 +18,11 @@ Text=	Tab
 Icon=	
 Action=	fun SendSc|"{Tab}"
 
+[Item5]
+Text=	定規
+Icon=	
+Action=	fun SendSc|"^!{3}"
+
 [Item6]
 Text=	Effect
 Icon=	
@@ -157,7 +162,7 @@ Submenu=	Applications
 [Item56]
 Text=	管理
 Icon=	
-Action=	fun SendSc|"^+!{F10}"
+Action=	fun SendSc|"+!{F10}"
 
 [Item57]
 Text=	BG div
